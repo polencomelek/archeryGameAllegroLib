@@ -1,3 +1,3 @@
 # archeryGameAllegroLib
 
-Edited ny Polen Çömelek 
+Edited by Polen Çömelek 
